@@ -6,11 +6,8 @@ const sections = [
   { id: "ga", label: "GA Process" },
   { id: "optimization", label: "Optimization" },
   { id: "dataset", label: "Dataset" },
-  { id: "models", label: "Models" },
   { id: "predictor", label: "Predictor" },
-  { id: "metrics", label: "Metrics" },
   { id: "results", label: "Results" },
-  { id: "tech", label: "Tech Stack" },
   { id: "team", label: "Team" },
 ];
 
