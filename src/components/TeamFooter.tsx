@@ -2,7 +2,7 @@ import { useScrollAnimation } from "./useScrollAnimation";
 
 const members = [
   { name: "KOTA SURENDRA REDDY", phone: "+918978896625" },
-  { name: "HARSHA", phone: "+917793914091" },
+  { name: "HARSHA BACHAM", phone: "+917793914091" },
 ];
 
 const TeamFooter = () => {
